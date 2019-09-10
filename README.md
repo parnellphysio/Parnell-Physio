@@ -1,2 +1,4 @@
-# Parnell-Physio
-Parnell Physiotherapy Clinic
+ParnellPhysio
+=============
+
+This is a basic site for the Parnell Physio.
